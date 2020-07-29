@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoCompression</string>
+    <string name="select_video">"Select Video "</string>
+    <string name="select_bit_rate">Input Bit Rate in Kbps > 20,000</string>
+    <string name="convert_video">Convert Video</string>
+    <string name="failed_Compression">Failed to Compress</string>
+</resources>
